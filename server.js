@@ -1,0 +1,4 @@
+function iSpeak(){
+
+	return "hi!!"
+}
